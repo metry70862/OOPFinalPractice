@@ -1,0 +1,1 @@
+20240520234057: [C:\Users\domik\Downloads\Project1\Project1\main.cpp] [121] - EVENT: 10000원.1000개 추가.
